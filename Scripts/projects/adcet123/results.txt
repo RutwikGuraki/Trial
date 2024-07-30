@@ -1,0 +1,20 @@
+IP Lookup Results:
+IP Address for adcet.ac.in: 68.183.86.240
+
+SSL Inspection Results:
+SSL Certificate Details:
+subject: {'commonName': 'adcet.ac.in'}
+issuer: {'countryName': 'US', 'organizationName': "Let's Encrypt", 'commonName': 'R10'}
+serialNumber: 04B04070DF8081A42FD27511DCC9EE7A1628
+version: 3
+notBefore: Jun 16 17:54:01 2024 GMT
+notAfter: Sep 14 17:54:00 2024 GMT
+
+
+Subdomain Enumeration Results:
+www.adcet.ac.in: 68.183.86.240
+mail.adcet.ac.in: Not Found
+ftp.adcet.ac.in: Not Found
+blog.adcet.ac.in: Not Found
+
+
